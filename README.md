@@ -20,10 +20,10 @@ To this point you'll be familiar with what HTML is, but maybe you want to know m
 
 Well, know, let's go ahead and make your own HTML, use you knowledge and make a basic webpage with only HTML you can create a folder, and add to it a file with name index.html and another with name styles.css
 once you have your files, let's combine the files and get creative: 
-look how to add you css to your html file [here](https://www.w3schools.com/css/css_howto.asp)
-some bases for css [here](https://www.youtube.com/watch?v=1PnVor36_40)
+look how to add you css to your html file [here](https://www.w3schools.com/css/css_howto.asp).
+some bases for css [here](https://www.youtube.com/watch?v=1PnVor36_40).
 know what the hell is [flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)?
-let's practice some flexbox: https://flexboxfroggy.com/#es
+and now let's practice some flexbox: https://flexboxfroggy.com/#es
 
 ### Responsive?
 well, know you can create basic HTML, add some styling, aling your objects, know you need to know [responsive](https://www.youtube.com/watch?v=oNSX21dh6kw), just a little bit so cheeck [this](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
