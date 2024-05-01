@@ -1,6 +1,6 @@
 # my-developer-path
-Here is a basic path example that I would have used if I were starting to program again in 2024.
-
+Here is a basic path example that I would have used if I were starting to program again in 2024. In this article, I will attempt to cover everything you need to become a web developer as quickly as possible. It's up to you to delve deeper into any topics where you feel you need more strength and to be curious in finding additional resources.
+Here, I will provide you with videos and texts to take you from beginner to advanced web developer with JavaScript. We'll cover things like HTML, CSS, essential JavaScript concepts, and then move on to more complex topics such as creating your own APIs, React, Next.js, among others.
 Well, you want to enter the web development world, but you're not familiar with it. However, you are familiar with technology, [what programming is](https://www.youtube.com/watch?v=CIRGjwYgdT4), and have a specific goal in mind. So, let's start making it happen!
 
 ## First Steps
