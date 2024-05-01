@@ -39,7 +39,7 @@ well, know you can create basic HTML, add some styling, aling your objects, now 
 Here, you will need to make a stand, take a breath, and be prepared, cause you will be here a lot of hours, this is the principal part of web development, we will be traveling for all important topics in JS, and try to learn all necesary to grow up to a real world tool, but everything on time, let's go with JS.
 
 ### Basics
-From the begginig, you alredy know what JS is,let's [learn how to use it] (https://www.youtube.com/watch?v=W6NZfCO5SIk)
+From the begginig, you alredy know what JS is, let's [learn how to use it](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 *Imagine you're building a castle with different types of bricks (data structures) to create its structure. Algorithms are like the blueprints guiding your construction, telling you how to efficiently build and organize. Logic is your sharp sword, helping you reason through challenges.*
 
