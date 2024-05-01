@@ -13,7 +13,7 @@ Yeah, i know, pretty basic for you, know let's see what is on server and [how to
 * How [do i run my js code](https://www.programiz.com/javascript/get-started)?
   
 ### Where do i code?
-well, you see it in the last video, but if not, download you development envairoment [here](https://code.visualstudio.com/download) .
+well, you saw it in the last video, but if not, download you development envairoment [here](https://code.visualstudio.com/download) .
 
 ### HTML
 *HTML is like the skeleton of a webpage. It's what gives your webpage structure, just like bones give structure to your body. Think of it as the blueprint that tells your browser where everything should go—headings, paragraphs, images, and all that jazz.*
