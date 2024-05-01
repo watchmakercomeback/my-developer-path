@@ -5,7 +5,7 @@ Well, you want to enter the web development world, but you're not familiar with 
 
 ## First Steps
 First, you have to know how web pages are made of, to start going deep into it, let's check out this [video](https://www.youtube.com/watch?v=kzyfIiVZPJA).
-Yeah, i know, pretty basic for you, know let's see what is on server and how to deploy your first web page. Yeah sure, you want more about code, but it will come after [this](https://www.youtube.com/watch?v=NQP89ish9t8)
+Yeah, i know, pretty basic for you, know let's see what is on server and [how to deploy your first web page](https://www.youtube.com/watch?v=NQP89ish9t8). Yeah sure, you want more about code, but it will come after.
 
 ### Some concepts that are nice to have
 * What is a [CLI](https://aws.amazon.com/what-is/cli/)?
